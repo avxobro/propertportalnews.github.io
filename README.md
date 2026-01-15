@@ -1,7 +1,9 @@
-[# propertportalnews.github.io]
-(https://maps.google.com/url?q=https://britishproperty.uk/
+https://maps.google.com/url?q=https://britishproperty.uk/
+
 https://maps.google.de/url?q=https://britishproperty.uk/
+
 https://maps.google.co.jp/url?sa=j&rct=j&url=https://britishproperty.uk/
+
 https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&url=https://britishproperty.uk/
 https://toolbarqueries.google.fr/url?sa=i&url=https://britishproperty.uk/
 https://maps.google.co.uk/url?q=https://britishproperty.uk/
