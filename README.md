@@ -28,7 +28,6 @@ https://britishproperty.uk/guides/property-hotspots-birmingham
 Understanding the Rent Arrears Procedure in the UK
 https://britishproperty.uk/guides/rent-arrears-procedure
 
-
 Understanding the Procedure for Serving Statutory Property Notices
 https://britishproperty.uk/guides/procedure-for-serving-statutory-property-notices
 
